@@ -1,4 +1,4 @@
-[![MasterHead](https://kaylumah.nl/assets/images/posts/20190907/githooks/cover_image.png)
+![MasterHead](https://kaylumah.nl/assets/images/posts/20190907/githooks/cover_image.png)
 <h1 align="center">Hi 👋, I'm Muzaffer Polat</h1>
 <h3 align="center">Programlamayı seviyorum.</h3>
 
